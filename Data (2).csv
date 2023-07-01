@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+Malaysia,30,32000,No
+Indonesia,25,30000,Yes
+Singapura,37,50000,No
+Indonesia,45,61000,No
+Singapura,22,25000,Yes
+Indonesia,35,,Yes
+Malaysia,30,52000,No
+Singapura,48,79000,Yes
+Malaysia,,83000,No
+Indonesia,50,77000,Yes
